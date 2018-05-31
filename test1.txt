@@ -1,4 +1,4 @@
- Volume in drive C is OS
+ Volume i
  Volume Serial Number is CC4A-E800
 
  Directory of C:\Users\Jahangir\Desktop\MyProject
