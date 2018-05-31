@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC4A-E800
+
+ Directory of C:\Users\Jahangir\Desktop\MyProject
+
+05/30/2018  10:40 PM    <DIR>          .
+05/30/2018  10:40 PM    <DIR>          ..
+05/30/2018  10:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  487,729,291,264 bytes free
